@@ -1,4 +1,4 @@
-#Profile title = ZL3YY VPN 🔥
+#Profile title = ZL3YY VPN
 #Profile traffic = 1GB / ∞
 #Profile exripy = 2050
 #profile-count: 40
