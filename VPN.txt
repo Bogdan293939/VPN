@@ -1,6 +1,6 @@
-#Profile title = ZL3YY VPN
-#Profile traffic = 1GB / ∞
-#Profile exripy = 2050
+#Profile title: ZL3YY VPN
+#Profile traffic: 1GB / ∞
+#Profile exripy: 2050
 #profile-count: 40
 vless://7f7372ef-37db-47ef-a980-e1642daaab7a@87.121.162.181:54443?security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=tcp&headerType=none&sni=max.ru&allowInsecure=1#🇦🇱 Албания - ZL3YY
 vless://7f7372ef-37db-47ef-a980-e1642daaab7a@193.42.11.94:54443?security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=tcp&headerType=none&sni=yandex.ru&allowInsecure=1#🇩🇪 Германия - ZL3YY
